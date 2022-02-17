@@ -18,10 +18,7 @@ void setup() {
 
 void draw() {
   image(img, background, 0);
-  --background; //Moving background left
-  image(img, 140000 + background, 0);
-  background = --background % 1000;
-  
+  --background; //Moving background left  
   
   
   fill(0, 100, 150);
