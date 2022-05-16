@@ -1,0 +1,5 @@
+teamID, teamName, teamPlayer1, teamPlayer2, teamPlayer3, teamPlayer4, teamPlayer5
+[1], kim, Jens, 
+[2], Viggo, 1, 2, 3, 
+[3], Tudde, JA, 
+[4], Lone, 2, 2, 
