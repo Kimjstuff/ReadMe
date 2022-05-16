@@ -1,0 +1,3 @@
+teamID, teamName, teamPlayer1, teamPlayer2, teamPlayer3, teamPlayer4, teamPlayer5
+[1], Kim, 1, 
+[2], Hanne, 1, 

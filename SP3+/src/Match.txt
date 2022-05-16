@@ -1,0 +1,2 @@
+matchID, teamA, teamB, teamARes, teamBRes, teamAPoint, teamBPoint
+1, B, A, 2, 2, 1, 1
